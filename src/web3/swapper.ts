@@ -9,7 +9,7 @@ import ExchangeProxyABI from '../abi/ExchangeProxy.json';
 import config from '@/config';
 import { ETH_KEY, logRevertedTx } from '@/utils/helpers';
 
-const ETH_ADDRESS = '0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE';
+const ETH_ADDRESS = '0x0000000000000000000000000000000000000000';
 const exchangeProxyAddress = config.addresses.exchangeProxy;
 
 export default class Swapper {
