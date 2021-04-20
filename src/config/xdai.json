@@ -1,7 +1,7 @@
 {
     "network": "xdai",
     "chainId": 100,
-    "precision": 6,
+    "precision": 18,
     "infuraKey": "92df310bb7f5c38db174697344e5be533a420d34",
     "rpcUrl": "https://rpc.xdaichain.com",
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/centfinance/cent-swap-xdai",
